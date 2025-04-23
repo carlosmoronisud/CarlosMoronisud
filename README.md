@@ -1,15 +1,7 @@
+<a href="https://www.linkedin.com/in/carlosmoronigarcia" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://portfolio-carlosgarcias-projects.vercel.app/" target="_blank"><img align="right" src="https://img.shields.io/badge/Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+
 # 👋 Olá, Humanos. Eu sou o Carlos.  
-
-*(Ou pelo menos é o que a IA que me criou quer que você acredite.)*  
-
-## 🤖 **"Feito por IA"** – Uma Crítica Social Não Solicitada  
-
-Você já parou para pensar que, em 2025, um perfil no GitHub parece mais um cardápio de habilidades do que um ser humano de verdade? Pois é. Aqui está o **Carlos 2.0**, a versão *"full-stack, multi-certificada, agile-friendly, disruptiva e pronta para o metaverso"* (ou algo assim).  
-
-Mas calma, não sou *apenas* mais um produto de *hype* tecnológico. Sou um **Frankenstein digital** metade designer, metade dev, com pitadas de IA, automação e um toque de sarcasmo.  
-
----  
-
 ## 📜 **Bio (Resumida para quem tem TDAH)**  
 
 - **Certificado em UI/UX, Figma, Photoshop e IA** (pela EBAC, porque o diploma tradicional é *muito 2010*).  
@@ -46,13 +38,5 @@ Mas calma, não sou *apenas* mais um produto de *hype* tecnológico. Sou um **Fr
 
 Mas, falando sério (ou não), se precisar de alguém que **entende de design, tech e negócios**, me chama.  
 
----  
-
-## 🌍 **Onde me encontrar (além do seu pesadelo corporativo)?**  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/carlosmoronigarcia) *(Porque networking é só um Tinder profissional.)*  
-🌐 [Portfólio](https://portfolio-carlosgarcias-projects.vercel.app/) *(Spoiler: tem até dark mode.)*  
-
----  
 
 **PS:** Este README foi *"generativamente criado"* por uma IA. Ironia? Talvez. 😏  
