@@ -4,7 +4,7 @@
 
 ## 🤖 **"Feito por IA"** – Uma Crítica Social Não Solicitada  
 
-Você já parou para pensar que, em 2024, um perfil no GitHub parece mais um cardápio de habilidades do que um ser humano de verdade? Pois é. Aqui está o **Carlos 2.0**, a versão *"full-stack, multi-certificada, agile-friendly, disruptiva e pronta para o metaverso"* (ou algo assim).  
+Você já parou para pensar que, em 2025, um perfil no GitHub parece mais um cardápio de habilidades do que um ser humano de verdade? Pois é. Aqui está o **Carlos 2.0**, a versão *"full-stack, multi-certificada, agile-friendly, disruptiva e pronta para o metaverso"* (ou algo assim).  
 
 Mas calma, não sou *apenas* mais um produto de *hype* tecnológico. Sou um **Frankenstein digital** metade designer, metade dev, com pitadas de IA, automação e um toque de sarcasmo.  
 
