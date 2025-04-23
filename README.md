@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/carlosmoronigarcia" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://portfolio-carlosgarcias-projects.vercel.app/" target="_blank"><img align="right" src="https://img.shields.io/badge/Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://portfolio-carlosgarcias-projects.vercel.app/" target="_blank"><img align="right" src="https://img.shields.io/badge/Me_contrata-%23FF00FF?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Hire Me"></a>
 
 # 👋 Olá, Humanos. Eu sou o Carlos.  
 ## 📜 **Bio (Resumida para quem tem TDAH)**  
