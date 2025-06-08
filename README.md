@@ -1,20 +1,17 @@
 <div align="center">
-  <img src="https://img.shields.io/github/last-commit/carlosmoronisud/portfolio" alt="Last Commit">
-  <img src="https://img.shields.io/github/repo-size/carlosmoronisud/portfolio" alt="Repository Size">
-
-     <a href="https://www.linkedin.com/in/carlosmoronigarcia" target="_blank">
+   <a href="https://www.linkedin.com/in/carlosmoronigarcia" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
+  <img src="https://img.shields.io/github/last-commit/carlosmoronisud/portfolio" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/carlosmoronisud/portfolio" alt="Repository Size"> 
   <a href="https://drive.google.com/uc?export=download&id=1NLf638HKMwecBZCgctCeHwaHUdHBfWdF" target="_blank">
-    <img src="https://img.shields.io/badge/Hire_Me-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-  </a>
-
-  <a href="https://portfolio-carlosgarcias-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23DA00FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Portfolio">
-  </a>
+    <img src="https://img.shields.io/badge/Hire_Me-CCFF00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>  
   <img src="https://komarev.com/ghpvc/?username=carlosmoronisud&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fportfolio-carlosgarcias-projects.vercel.app" alt="Portfolio Status">
+  <a href="https://portfolio-carlosgarcias-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23DA00FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Portfolio">
+  </a>
 </div>
 
 ---
